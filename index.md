@@ -12,9 +12,9 @@
     </div>
 </div> -->
 
-## Eduction background
+# Eduction background
 
 - masters student in Zhejiang University \
-2021 - now \
-research on computer vision, graphics. 
+- 2021 - now \
+- research on computer vision, graphics. 
 
