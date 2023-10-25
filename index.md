@@ -11,10 +11,11 @@
         <img src="./照片.jpg" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
 </div>
+
 <br />
 
-# Eduction background
 
+## education bg
 - masters student in Zhejiang University \
 - 2021 - now \
 - research on computer vision, graphics. 
